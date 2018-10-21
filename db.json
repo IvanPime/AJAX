@@ -1,4 +1,6 @@
-[
+{
+  "peliculas":
+  [
     {
       "id_pelicula": "1",
       "nombre_pelicula": "Somnia. Dentro de tus sueños",
@@ -725,4 +727,6 @@
       "sinopsis": "Basada en la saga de videojuegos “Angry Birds”, la historia se desarrolla en una isla poblada enteramente por aves felices que no vuelan… o casi enteramente. En este paraíso, Red, un pájaro con problemas de mal genio, el veloz Chuck y el volátil Bomb nunca han terminado de encajar. Pero, cuando la isla recibe la visita de unos misteriosos cerdos verdes, tendrán que ser estos insólitos marginados los que descubran qué traman esos cerdos.\r\n",
       "id_genero": "11"
     }
-]
+  ]
+}
+
