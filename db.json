@@ -1,17 +1,11 @@
 {
-  "peliculas":
-  [
+  "posts": [
     {
-      "id_pelicula": "1",
-      "nombre_pelicula": "Somnia. Dentro de tus sueños",
-      "url_trailer": "https://www.youtube.com/watch?v=nKWiZsPfG74",
-      "url_pelicula": "https://www.youtube.com/watch?v=nKWiZsPfG74",
-      "url_poster": "https://www.cinetux.com/wp-content/uploads/2018/09/somnia-dentro-de-tus-suenos-9393-poster-185x278.jpg",
-      "año": "2016",
-      "pais": "Estados Unidos",
-      "sinopsis": "Cody es un niño huérfano adoptado por Jessie y Mark cuyos sueños y pesadillas se manifiestan físicamente cuando él duerme.",
-      "id_genero": "1"
+      "id": 1,
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
-
